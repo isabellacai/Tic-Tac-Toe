@@ -1,7 +1,7 @@
 Tied-Up Tic-Tac-Toe by Isabella Cai
 ===========
 Tired of how the first player who moves in Tic-Tac-Toe always has double the chances of winning? 
-Tired of how the second player can only either lose or tie if the first player 
+Tired of how the second player can only either lose or tie if the first player plays perfectly?
 Tired of not having a challenging opponent who always moves pieces to the perfect position?
 
 I bring to you Tied-Up Tic-Tac-Toe, a human vs. AI tic-tac-toe game written in Python that 
